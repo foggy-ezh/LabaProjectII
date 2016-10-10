@@ -1,0 +1,3 @@
+2016-10-10 13:18:09.967 [main] ERROR com.training.lab.second.action.LibraryCreator - com.training.lab.second.exception.WrongDataException:  CAN'T GET String POSITION [0]
+2016-10-10 13:18:09.967 [main] ERROR com.training.lab.second.action.LibraryCreator - com.training.lab.second.exception.WrongDataException: UNKNOWN TYPE OF EDITION IN Line - NotBook;;;;;
+2016-10-10 13:18:09.983 [main] ERROR com.training.lab.second.action.LibraryCreator - com.training.lab.second.exception.WrongDataException: WRONG QUANTITY OF ELEMENTS IN Line - bOOK;12;;;;;;;;;

@@ -1,0 +1,11 @@
+Book;1;Bookname;This Book Publisher;100;HARD;english;2015;Tverdakhleb;1;NOVEL;
+Book;2;Bookname2;This Book Publisher;102;HARD;english;2015;Tverdakhleb;1;NOVEL;
+Book;3;Bookname2;This Book Publisher;95;HARD;english;1980;Tverdakhleb;1;NOVEL;
+Book;4;Bookname2;This Book Publisher;104;HARD;english;0500;Tverdakhleb;1;NOVEL;
+
+Book;5;Bookname2;This Book Publisher;90;HARD;english;8;Tverdakhleb;1;NOVEL;
+NotBook;;;;;
+bOOK;12;;;;;;;;;
+Book;1;Bookname6;This Book Publisher;100;HARD;english;2015;Tverdakhleb;1;NOVEL;
+magAZine;101;maGAZINEnAME;NewPublisher;87;SOFT;english;2000;54;BEAUTY
+scrapbook;101;ScrapboookName;NewPublisher;97;SOFT;russian;2016; ArtistName;PLANTS
